@@ -7,7 +7,7 @@
 <title>Aplicação Web</title>
 </head>
 <body>
-	<form action="recebeServlet" method="post">
+	<form action="recebe" method="post">
 		<input type="text" id="valor" name="valor"/> 
 		<input type="submit" value="enviar"/>
 	</form>
